@@ -2,11 +2,11 @@
 id: yarvu4gfm1zazi71a8o2tt0
 title: Exceptions
 desc: ''
-updated: 1659563547829
+updated: 1660502569833
 created: 1659561906622
 ---
 
-## Hierarchy
+## Иерархия
 
 Все ошибки делятся на две группы:
   - checked
