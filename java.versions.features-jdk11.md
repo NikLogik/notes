@@ -1,6 +1,6 @@
 ---
 id: mowvn5670t8rdn58q5rp8be
-title: Features JDK-11
+title: Features Jdk11
 desc: ''
 updated: 1659520491011
 created: 1659518543100
