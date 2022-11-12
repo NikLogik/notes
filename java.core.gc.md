@@ -2,7 +2,7 @@
 id: iukmod8sf806y5l5xbt4keo
 title: Garbage Collection
 desc: ''
-updated: 1668255219555
+updated: 1668258781366
 created: 1659518499428
 ---
 
@@ -48,3 +48,9 @@ ___
 !["Heap schema"](assets/images/java-gc-heap-structure.png)
 
 Permanent Generation начиная с JDK-9 называется Metaspace и имеет некоторые отличия от PermGen, например может динамически расширяться.
+
+___
+
+## Stop-The-World
+
+Это полная остановка потоков программы для безопасной сборки мусора и других системных операций. Происходит в специальных местах программы, которые называются safepoint.
