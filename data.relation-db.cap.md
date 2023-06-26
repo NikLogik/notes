@@ -14,6 +14,7 @@ created: 1668257206137
 * P (partition tolerance) — устойчивость к распределению. Даже если между узлами нет связи, они продолжают работать независимо друг от друга.
 
 !["CAP schema"](assets/images/data-relation-db-cap-schema.png)
+
 ___
 
 ## Недостатки теоремы

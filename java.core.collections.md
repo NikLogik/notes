@@ -1,8 +1,8 @@
 ---
 id: xf7l0jwgoqezt1xwfvh5dfo
 title: Collections
-desc: ''
-updated: 1660506527160
+desc: ""
+updated: 1684844558899
 created: 1660502537427
 ---
 
@@ -18,11 +18,9 @@ created: 1660502537427
 
 ## Collections framework
 
-
 !["Общая схема"](assets/images/collections_framework-1.png)
 
-**Collection** -  в версии Java 8, было добавлено несколько новых методов для работы с лямбдами (такие как stream(), parallelStream(), removeIf(Predicate<? super E> filter) и др.).
-    
+**Collection** - в версии Java 8, было добавлено несколько новых методов для работы с лямбдами (такие как stream(), parallelStream(), removeIf(Predicate<? super E> filter) и др.).
 
 **Map** - в версии Java 8 появились дополнительные методы для работы с лямбдами, а также методы, которые зачастую реализовались в логике приложения (getOrDefault(Object key, V defaultValue), putIfAbsent(K key, V value)).
 
@@ -67,7 +65,7 @@ TreeMap — реализация Map основанная на красно-чё
 
 !["Временная сложность"](assets/images/collections_framework.png)
 
-____
+---
 
 ## Полезные ссылки
 
